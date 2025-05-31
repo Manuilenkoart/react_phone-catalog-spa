@@ -1,9 +1,26 @@
-# React TypeScript Starter Pack
+# React Phone Catalog
 
-To use this template click `Use this template`
+React-based phone catalog application that showcases a variety of phones, tablets, and accessories. The application features advanced animations for the header, banners, sliders and categories, providing a smooth and engaging user experience.
 
-### Available Scripts
+- [DEMO LINK](https://manuilenkoart.github.io/react_phone-catalog-spa/)
+- [DESIGN](https://www.figma.com/design/T5ttF21UnT6RRmCQQaZc6L/Phone-catalog--V2--Original?node-id=0-1&p=f&t=Ji2jkXA7GZ1TcTn4-0)
 
-`Deploy` - available to deploy your application to gh-pages, to deploy the project, change the second line of code in package.json, specifically the homepage value, from "." to the repository name
 
-`SCSS Preprocessor` - available to write your styles with modern style language
+## Features
+- **theme switcher**: Dark/Light theme mode.
+- **Advanced Animations**: Smooth animations for the header, banners, sliders and category elements.
+- **Product Catalog**: Browse through a wide range of phones, tablets, and accessories.
+- **Product Details**: View detailed information about each product.
+- **Favourites**: Add products to your favourites list.
+- **Cart**: Add products to your cart and manage your shopping list.
+- **Responsive Design**: Optimized for both desktop and mobile devices.
+
+## Technologies Used
+
+- **React**: JavaScript library for building user interfaces.
+- **TypeScript**: Typed superset of JavaScript.
+- **Vite**: Next-generation frontend tooling.
+- **Sass**: CSS preprocessor for styling.
+- **React Router**: Declarative routing for React applications.
+- **Classnames**: Utility for conditionally joining classNames.
+- **Local Storage**: For storing cart and favourites data.
