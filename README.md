@@ -24,3 +24,27 @@ React-based phone catalog application that showcases a variety of phones, tablet
 - **React Router**: Declarative routing for React applications.
 - **Classnames**: Utility for conditionally joining classNames.
 - **Local Storage**: For storing cart and favourites data.
+
+## Steps for launching the project
+
+1. Clone the repository:
+```
+git clone https://github.com/Manuilenkoart/react_phone-catalog-spa.git
+cd react_phone-catalog-spa
+```
+
+2. Recommended Node.js 20.x (LTS)
+
+3. Install dependencies:
+```
+npm install
+# or
+yarn install
+```
+
+4. Run the project locally:
+```
+npm start
+# or
+yarn start
+```
